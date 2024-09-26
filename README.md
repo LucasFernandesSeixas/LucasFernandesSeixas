@@ -18,4 +18,4 @@
 ## Follow my journey! 📫
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-fernandes-seixas-5955b3232/)](https://www.linkedin.com/in/lucas-fernandes-seixas-5955b3232/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/lucasfs.999/)](https://www.instagram.com/lucasfs.999/)
+
