@@ -1,8 +1,9 @@
-### Welcome to my profile!
-
- <p>🤓 Systems analysis and development student at FIAP</p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lucasfernandesseixas&count_private=true&show_icons=true&theme=radical" /> </p>
+### Seja bem vindo!
+ <p>Cursando Engenharia de Software pela Uninter</p>
+ <p>periodo 02/2026 - 12/2029</p>
+ 
+ <p>Primeira formação em Analise e Desenvolvimento de sistemas pela FIAP</p>
+ <p>Periodo 02/2022 - 12/2023</p>
 
 <p align="center">
   <div style="display: inline_block"><br>
@@ -15,7 +16,7 @@
 </div>
 </p>
 
-## Follow my journey! 📫
+## ! 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-fernandes-seixas-5955b3232/)](https://www.linkedin.com/in/lucas-fernandes-seixas-5955b3232/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-fernandes-seixas-5955b3232/)](https://www.linkedin.com/in/hilucasfernandesseixas/)
 
